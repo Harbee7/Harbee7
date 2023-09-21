@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Node.js, Vue.js and Express
 - 💞 I'm passionate about creating elegant solutions to complex problems and delivering high-quality code 
 - 💞️ I love working in collaborative teams and thrive in agile development environment
-- 🔥 Key Skills include Git, Github, HTML5, CSS3, JavaScript and React.
+- 🔥 Key Skills include Git, Github, HTML5, CSS3, JavaScript, Bootstrap and React.
 - 💞 Active member of She Code Africa
 - 🌴 How to reach me: abigailjegede38@gmail.com
 
